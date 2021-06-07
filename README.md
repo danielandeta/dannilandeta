@@ -29,6 +29,8 @@
  ![](https://komarev.com/ghpvc/?username=dannilandeta)  ![](https://img.shields.io/github/stars/dannilandeta?style=social)  
  
 </div>
+ ### Top Languages<br>
+  ![dannilandeta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannilandeta&show_icons=true&theme=radical)<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
