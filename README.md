@@ -11,7 +11,7 @@
   
    🌱 I’m currently learning Web design
   
-   👯 I’m looking to collaborate on any project
+   👯 I’m looking to collaborate on projects
   
    🤔 I’m looking for help with C
   
@@ -19,9 +19,9 @@
   
    📫 How to reach me **dlandeta@espol.edu.ec**
   
-   😄 Pronouns: she/her
+   <!--😄 Pronouns: she/her
   
-   ⚡ Fun fact: I love pigs ❤️
+   ⚡ Fun fact: I love pigs ❤️-->
 
   
  <div align="center">
@@ -30,9 +30,11 @@
  
 </div>
   
- ### Top Languages<br>
-  ![dannilandeta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannilandeta&show_icons=true&theme=radical)<br>
+ ### Top Languages
+  ![dannilandeta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannilandeta&show_icons=true&theme=dracula)
 
+
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dannilandeta" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dannilandeta" height="30" width="40" /></a>
