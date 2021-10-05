@@ -7,15 +7,8 @@
   
  ### I'm a Computer Science student at ESPOL🤓📚 
   
-   🔭 I’m currently working on system development
-  
-   🌱 I’m currently learning Web design
   
    👯 I’m looking to collaborate on projects
-  
-   🤔 I’m looking for help with C
-  
-   💬 Ask me about software development
   
    📫 How to reach me **dlandeta@espol.edu.ec**
   
