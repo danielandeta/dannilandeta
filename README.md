@@ -8,7 +8,6 @@
  ### I'm a Computer Science student at ESPOL🤓📚 
   
   
-   👯 I’m looking to collaborate on projects
   
    📫 How to reach me **dlandeta@espol.edu.ec**
   
